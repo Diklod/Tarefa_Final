@@ -1,0 +1,15 @@
+C:\Users\Jean.Vidal\source\repos\Exercício Nivelamento 3\Exercício Nivelamento 3\bin\Debug\Exercício Nivelamento 3.exe.config
+C:\Users\Jean.Vidal\source\repos\Exercício Nivelamento 3\Exercício Nivelamento 3\bin\Debug\Exercício Nivelamento 3.exe
+C:\Users\Jean.Vidal\source\repos\Exercício Nivelamento 3\Exercício Nivelamento 3\bin\Debug\Exercício Nivelamento 3.pdb
+C:\Users\Jean.Vidal\source\repos\Exercício Nivelamento 3\Exercício Nivelamento 3\obj\Debug\Exercício Nivelamento 3.csproj.AssemblyReference.cache
+C:\Users\Jean.Vidal\source\repos\Exercício Nivelamento 3\Exercício Nivelamento 3\obj\Debug\Exercício Nivelamento 3.csproj.CoreCompileInputs.cache
+C:\Users\Jean.Vidal\source\repos\Exercício Nivelamento 3\Exercício Nivelamento 3\obj\Debug\Exercício Nivelamento 3.exe
+C:\Users\Jean.Vidal\source\repos\Exercício Nivelamento 3\Exercício Nivelamento 3\obj\Debug\Exercício Nivelamento 3.pdb
+C:\Users\AlunoCaxiasTemporári\Desktop\Tarefa Final\TarefaFinal\Exercício Nivelamento 3\Exercício Nivelamento 3\bin\Debug\Exercício Nivelamento 3.exe.config
+C:\Users\AlunoCaxiasTemporári\Desktop\Tarefa Final\TarefaFinal\Exercício Nivelamento 3\Exercício Nivelamento 3\bin\Debug\Exercício Nivelamento 3.exe
+C:\Users\AlunoCaxiasTemporári\Desktop\Tarefa Final\TarefaFinal\Exercício Nivelamento 3\Exercício Nivelamento 3\bin\Debug\Exercício Nivelamento 3.pdb
+C:\Users\AlunoCaxiasTemporári\Desktop\Tarefa Final\TarefaFinal\Exercício Nivelamento 3\Exercício Nivelamento 3\obj\Debug\Exercício Nivelamento 3.csproj.AssemblyReference.cache
+C:\Users\AlunoCaxiasTemporári\Desktop\Tarefa Final\TarefaFinal\Exercício Nivelamento 3\Exercício Nivelamento 3\obj\Debug\Exercício Nivelamento 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\AlunoCaxiasTemporári\Desktop\Tarefa Final\TarefaFinal\Exercício Nivelamento 3\Exercício Nivelamento 3\obj\Debug\Exercício Nivelamento 3.csproj.CoreCompileInputs.cache
+C:\Users\AlunoCaxiasTemporári\Desktop\Tarefa Final\TarefaFinal\Exercício Nivelamento 3\Exercício Nivelamento 3\obj\Debug\Exercício Nivelamento 3.exe
+C:\Users\AlunoCaxiasTemporári\Desktop\Tarefa Final\TarefaFinal\Exercício Nivelamento 3\Exercício Nivelamento 3\obj\Debug\Exercício Nivelamento 3.pdb
