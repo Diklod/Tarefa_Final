@@ -1,0 +1,31 @@
+Histórico de Versões:
+
+----------------------------------------------------------------------------------------------------------
+
+Versão 1.0 - Desenvolvido pequeno programa de console para simular uma lancheria:
+
+Nesta versão, o programa consiste em um pequeno sistema, onde o usuário solicita por um lanche específico (Ex.: Cachorro Quente)
+através do número do código correspondente, já informando o valor unitário (Ex.: Código 1 - Cachorro Quente - R$4,50).
+Em seguida, o usuário informa a quantidade do pedido (Ex.: 3), e o sistema retorna uma mensagem informando sobre o pedido:
+
+(Ex.: Você está adquirindo: Produto - Cachorro Quente
+                            Quantidade - 3
+                            Total a pagar: R$13,50)
+
+Logo após, o programa retorna uma mensagem para que o usuário confirme ou cancele o pedido.
+
+----------------------------------------------------------------------------------------------------------
+
+Versão 1.0.1 - Atualização para desenvolvedores:
+
+Neste versão, foram adicionados comentários referentes a cada etapa do programa, bem como uma melhor identação para
+facilitar a leitura do código aos desenvolvedores.
+
+----------------------------------------------------------------------------------------------------------
+
+Versão 1.1.1 - Atualização de função para console:
+
+Nesta versão, foi adicionado um laço de repetição onde, ao final da execução do programa seja solicitado para o usuário
+teclar ENTER para finalizar o programa ou digitar 1 e em seguida ENTER para reinicar. Foi adicionado este comando pois em
+algumas IDEs, dependendo das configurações utilizadas, o programa terminava a execução automaticamente ao chegar no fim, 
+impedindo que o usuário visualizasse o retorno final do programa.
